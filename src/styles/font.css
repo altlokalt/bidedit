@@ -1,0 +1,40 @@
+
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/SoraSemiBold.ttf"); font-family : "Sora"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/SoraRegular.ttf"); font-family : "Sora"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/SoraBold.ttf"); font-family : "Sora"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/QuicksandSemiBold.ttf"); font-family : "Quicksand"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/QuicksandMedium.ttf"); font-family : "Quicksand"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/UrbanistRomanSemiBold.ttf"); font-family : "Urbanist"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/UrbanistRegular.ttf"); font-family : "Urbanist"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoRomanMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoRomanBlack.ttf"); font-family : "Roboto"; font-weight : 900;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OutfitRegular.ttf"); font-family : "Outfit"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RubikRomanSemiBold.ttf"); font-family : "Rubik"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RubikRomanRegular.ttf"); font-family : "Rubik"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoRomanBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRomanRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RubikRomanBold.ttf"); font-family : "Rubik"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/UrbanistRomanExtraBold.ttf"); font-family : "Urbanist"; font-weight : 800;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/AnekTamilSemiBold.ttf"); font-family : "Anek Tamil"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/QuicksandRegular.ttf"); font-family : "Quicksand"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/QuicksandBold.ttf"); font-family : "Quicksand"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/MontserratSemiBold.ttf"); font-family : "Montserrat"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MontserratRegular.ttf"); font-family : "Montserrat"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/MontserratBold.ttf"); font-family : "Montserrat"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PlusJakartaSansRegular.ttf"); font-family : "Plus Jakarta Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PlusJakartaSansSemiBold.ttf"); font-family : "Plus Jakarta Sans"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PlusJakartaSansLight.ttf"); font-family : "Plus Jakarta Sans"; font-weight : 300;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PlusJakartaSansBold.ttf"); font-family : "Plus Jakarta Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PlusJakartaSansMedium.ttf"); font-family : "Plus Jakarta Sans"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/InterSemiBold.ttf"); font-family : "Inter"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/SansitaBold.ttf"); font-family : "Sansita"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsRegular.ttf"); font-family : "Poppins"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PoppinsMedium.ttf"); font-family : "Poppins"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/UbuntuRegular.ttf"); font-family : "Ubuntu"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/DMSansMedium.ttf"); font-family : "DM Sans"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/DMSansBold.ttf"); font-family : "DM Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/DMSansRegular.ttf"); font-family : "DM Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/LatoRegular.ttf"); font-family : "Lato"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/LatoBold.ttf"); font-family : "Lato"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/OutfitSemiBold.ttf"); font-family : "Outfit"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/OutfitMedium.ttf"); font-family : "Outfit"; font-weight : 500;  }
